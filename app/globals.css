@@ -1,0 +1,13 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-image: url('../public/background.png');
+  /* background-repeat: no-repeat */
+  /* width: fit-content; */
+  background-size: cover;
+}
+
